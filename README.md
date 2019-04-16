@@ -1,7 +1,7 @@
 # DeepLearningToolNetwork
-A study of popular open source deep learning tools.
+A study of popular open source deep learning tools used in this blog (link TBD).
 
-You can find supporting documents (work doc with detailed notes and Gephi formatted csv file) saved in this project.
+You can find supporting documents (Word doc with detailed notes and Gephi formatted csv file) saved in this project.
 
 This network graph has three types of nodes. Deep learning tools are the focus of this investigation and are colored blue. The code bases used to write those tools are colored pink. The APIs that data scientists leverage when using those tools are in green. 
 
