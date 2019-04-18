@@ -1,5 +1,5 @@
 # DeepLearningToolNetwork
-A study of popular open source deep learning tools used in this blog (link TBD).
+A brief study of popular open source deep learning tools.
 
 You can find supporting documents (Word doc with detailed notes and Gephi formatted csv file) saved in this project.
 
